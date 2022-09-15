@@ -4,4 +4,5 @@ digito mas cosas
 agregando colores
 03. ajustes de listado de camisetas
 04. ajustes otros
+05. ajustes de prueba (peligros)
  
